@@ -1,3 +1,0 @@
-drawText('hello world');
-
-bounceBubbles();
